@@ -1,1 +1,4 @@
 # Cardio_vascular_risk_ML_classification
+Cardiovascular diseases (CVDs) are the major cause of mortality worldwide. According to WHO, 17.9 million people died from CVDs in 2019, accounting for 32% of all global fatalities. Though CVDs cannot be treated, predicting the risk of the disease and taking the necessary precautions and medications can help to avoid severe symptoms and, in some cases, even death. As a result, it is critical that we accurately predict the risk of heart disease in order to avert as many fatalities as possible.
+
+Therefore, the problem statement is to develop a machine learning model that can accurately predict an individual's risk of developing CVD by incorporating a wide range of variables, including demographic, clinical, and lifestyle factors. The model should be interpretable, reliable, and able to provide personalized risk predictions that can aid in the development of prevention strategies for high-risk individuals.
